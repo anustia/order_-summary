@@ -1,0 +1,117 @@
+body{
+	background-color:#D6E1FF ;
+	display: flex;
+	
+	min-height: 100vh;
+	font-family: 'Red Hat Display', sans-serif;
+
+
+
+}
+.font-weight900{
+	font-weight:900;
+}
+.center{
+	display: flex;
+	justify-content: center;
+
+}
+
+.card{
+	width: 327px;
+	height: 567px;
+  	background-color:#ffffff;
+	border-radius:  20px;
+	padding: 0 auto;
+	margin: auto;
+
+
+}
+.music-photo{
+	width: 327px;
+	height:160px ;
+	border-radius: 20px 20px 0px 0px;
+	margin-bottom: 32px;
+
+}
+.title{
+	
+	font-size: 22px;
+	line-height: 29px;
+	text-align: center;
+	color:#1F2E55 ;
+	margin-bottom: 16px;
+	
+}
+.text{
+	width: 263px;
+	text-align: center;
+	margin: 0 auto;
+	color: #717FA6;
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom:24px;
+    font-weight: 500;
+ }
+.container{
+	max-width: 279px;
+	vertical-align: center;
+	align-items: center;
+	background-color: #F7F9FF;
+	margin: auto;
+	margin-bottom:24px;
+
+}
+.box{
+	margin: 15px;
+	max-width: 100%;
+	margin-left: 20px;
+	margin-right: 50px;
+
+}
+.button-container{
+	margin-bottom: 24px;
+}
+.rectangle{
+	align-items: center;
+    width: 279px;
+	height: 50px;
+	background-color:#382AE1 ;
+	margin: auto;
+	border-radius: 10px;
+
+
+}
+.icon{
+	width: 48px;
+	height: 48px;
+	
+}
+.change{
+	font-size:13px ;
+	color:#382AE1 ;
+	font-weight:700;
+	
+}
+.button-text{
+	color:#FFFFFF ;
+	font-size:15px;
+	
+
+}
+.button-cancel{
+	color:#717FA6 ;
+	font-size:15px;
+	margin-top: 24px;
+
+}
+.plan{
+	color:#1F2E55 ;
+	font-size: 14px;
+}
+.money{
+	font-size:14px;
+	font-weight: 500;
+	color:#717FA6 ;
+}
+
